@@ -7,7 +7,7 @@
 <p align="center" dir="center"><animated-image data-catalyst="" style="width: auto;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67"><img src="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67" alt="shreshthkr" align="center" height="300px" width="70%" data-canonical-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4713gtza5lgkbjx3rub9c7xrxhau8kto42l0pnmawm&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
  </p>
 
-- 🔭 I’m currently working on: <strong> Full-Stack eCommerse Project </strong>
+- 🔭 I’m currently working on: <strong> Full-Stack eCommerse Project </strong>Building startup 
 
 - 👯 I’m looking to collaborate on: <strong>Open Source Project</strong>
 
