@@ -8,6 +8,7 @@
  </p>
 
 <p align="left"> <a href="https://twitter.com/SonuKum41481451" target="blank"><img src="https://img.shields.io/twitter/follow/SonuKum41481451?logo=twitter&style=for-the-badge" alt="twitter.com/SonuKum41481451" /></a> </p>
+- 🔭 I’m currently working on **Full-Stack eCommerse Project**
 
 - 👯 I’m looking to collaborate on **boAt clone**
 
