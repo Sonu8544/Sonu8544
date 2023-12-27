@@ -1,5 +1,8 @@
 <h1 align="left">Hi There 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
+<p align="center" dir="auto">
+<img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%; display: block;">
+</p>
 
 <p align="center" dir="center"><animated-image data-catalyst="" style="width: auto;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67"><img src="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67" alt="shreshthkr" align="center" height="300px" width="70%" data-canonical-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4713gtza5lgkbjx3rub9c7xrxhau8kto42l0pnmawm&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
  </p>
@@ -40,16 +43,6 @@
 
    </p>  
 
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu8544&show_icons=true&locale=en&layout=compact" alt="sonu8544" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&locale=en" alt="sonu8544" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&" alt="sonu8544" /></p> -->
-
-<p align="center" dir="auto">
-<img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%; display: block;">
-</p>
 
 - 🔭 I’m currently working on ... Freelance Project
 - 🌱 I’m currently learning ...
