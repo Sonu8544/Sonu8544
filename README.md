@@ -32,10 +32,10 @@
 <h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="pager" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4df.png">📟</g-emoji> GitHub Stats</h2>
 
 
-<p align="center" dir="auto">
-     <img align="center" style=" margin-left: 25%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rushijoshi3798" alt="rushijoshi3798" /><br></br>
-     <img align="center" style="max-width: 35%; margin-left: 40%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=rushijoshi3798&show_icons=true&locale=en" alt="rushijoshi3798" /><br></br>
-     <img align="center" style="max-width: 100%; margin-left: 45%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Rushijoshi3798" alt="rushijoshi3798" /></p>
+<p align="left" dir="auto">
+     <img align="center" style=" margin-left: 15%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sonu8544" alt="Sonu8544" /><br></br>
+     <img align="center" style="max-width: 25%; margin-left: 5%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=Sonu8544&show_icons=true&locale=en" alt="Sonu8544" /><br></br>
+     <img align="center" style="max-width: 100%; margin-left: 15%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Sonu8544" alt="Sonu8544" /></p>
      
 <p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%; display: block;">
