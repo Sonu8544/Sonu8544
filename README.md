@@ -33,9 +33,9 @@
 
 
 <p dir="auto">
-     <img align="left" style=" margin-left: 15%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sonu8544" alt="Sonu8544" /><br></br>
-     <img align="right" style="max-width: 25%; margin-left: 5%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=Sonu8544&show_icons=true&locale=en" alt="Sonu8544" /><br></br>
-     <img align="center" style="max-width: 100%; margin-left: 15%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Sonu8544" alt="Sonu8544" />
+     <img align="center" style=" margin-left: 15%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sonu8544" alt="Sonu8544" /><br></br>
+     <img align="left" style="max-width: 25%; margin-left: 5%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=Sonu8544&show_icons=true&locale=en" alt="Sonu8544" /><br></br>
+     <img align="right" style="max-width: 100%; margin-left: 15%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Sonu8544" alt="Sonu8544" />
      </p>
      
 <p align="center" dir="auto">
