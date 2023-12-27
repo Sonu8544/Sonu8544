@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/SonuKum41481451" target="blank"><img src="https://img.shields.io/twitter/follow/SonuKum41481451?logo=twitter&style=for-the-badge" alt="twitter.com/SonuKum41481451" /></a> </p>
 - 🔭 I’m currently working on <strong> Full-Stack eCommerse Project </strong>
 
-- 👯 I’m looking to collaborate on **boAt clone**
+- 👯 I’m looking to collaborate on <strong>Open Source Project</strong>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonu8544](https://github.com/Sonu8544)
 
