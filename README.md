@@ -10,7 +10,12 @@
 
 <h3 align="left">Connect with me:</h3> ** +91 8544098398, sksonu8544@gmail.com, https://www.linkedin.com/in/8544-sonukumar/ **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Front End:</h3>
+<p align="left">
+     
+![HTML5](https://img.shields.io/badge/html5-e96b36.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-50bbd7.svg?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ChakraUI](https://img.shields.io/badge/chakraui-%23000000.svg?style=for-the-badge&logo=chakraui&logoColor=#00C7B7)
+
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      
