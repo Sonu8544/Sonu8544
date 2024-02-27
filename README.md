@@ -22,7 +22,8 @@ Know about my experiences: [Resume](https://drive.google.com/file/d/154GriKQw-Qn
 <h3 align="left">Back End:</h3>
 <p align="left">
      
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 </p>
 
