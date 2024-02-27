@@ -1,5 +1,5 @@
 <h3 align="left">Hi There, I'm Sonu Kumar</h3>
-<p align="left"> A passionate and self-taught Front-end Developer from India. I really enjoy building the Front-end of Websites and occasionally Designing. Other than that, I'm passionate about play cricket. </p>
+<p align="left"> A passionate and self-taught <strong>  Front-end Developer </strong> from India. I really enjoy building the Front-end of Websites and occasionally Designing. Other than that, I'm passionate about play cricket. </p>
 
 <p align="left">Feel free to visit my portfolio website gulshansongara.netlify.app to find out more about me and explore some of my recent projects. </p>
 <p><img src="https://komarev.com/ghpvc/?username=sonu8544&label=Profile%20views&color=blueviolet&style=flat-square" alt="sonu8544" /> </p>
