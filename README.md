@@ -4,20 +4,11 @@
 <p align="left">Feel free to visit my portfolio website gulshansongara.netlify.app to find out more about me and explore some of my recent projects. </p>
 
 
-<p align="center" dir="center"><animated-image data-catalyst="" style="width: auto;"><a target="__blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67"><img src="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67" alt="shreshthkr" align="center" height="300px" width="70%" data-canonical-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4713gtza5lgkbjx3rub9c7xrxhau8kto42l0pnmawm&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
- </p>
-
-- 🔭 I’m currently working on: <strong> Full-Stack eCommerse Project </strong>Building startup. 
-
-- 👯 I’m looking to collaborate on: <strong>Open Source Project</strong>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sonu8544](https://github.com/Sonu8544)
 
 - Know about my experiences: [Resume](https://drive.google.com/file/d/154GriKQw-Qn6sora-ylFtJbroc1UO5ms/view?usp=drive_link)
 
-- 💬 Ask me about: **ReactJS, Typescript, Javascript, Data-structures & Algorithms**
-
-- 📫 How to reach me: **sksonu8544@gmail.com, +91 8544098398**
+- 📫 How to reach me: **+91 8544098398, sksonu8544@gmail.com, https://www.linkedin.com/in/8544-sonukumar/**
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
