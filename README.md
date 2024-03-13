@@ -9,7 +9,12 @@
 
 Know about my experiences: [Resume](https://drive.google.com/file/d/154GriKQw-Qn6sora-ylFtJbroc1UO5ms/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3> ** +91 8544098398, sksonu8544@gmail.com, https://www.linkedin.com/in/8544-sonukumar/ **
+<h3 style="text-align: left;">Connect with me:</h3>
+<p>
+    Phone: <a href="tel:+918544098398">+91 8544098398</a>,<br>
+    Email: <a href="mailto:sksonu8544@gmail.com">sksonu8544@gmail.com</a>,<br>
+    LinkedIn: <a href="https://www.linkedin.com/in/8544-sonukumar/">8544 Sonukumar</a>
+</p>
 
 <h3 align="left">Front End:</h3>
 <p align="left">
