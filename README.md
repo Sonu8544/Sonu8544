@@ -1,9 +1,6 @@
 <h3 align="left">Hi There, I'm Sonu Kumar</h3>
 <p align="left"> A passionate and self-taught <strong>  Front-end Developer </strong> from India. I really enjoy building the Front-end of Websites and occasionally Designing. Other than that, I'm passionate about playing cricket. </p>
 
-<p align="left">Feel free to visit my portfolio website <a href="https://sonukumar.vercel.app/" target="_blank">PORTFOLIO</a>
- to find out more about me and explore some of my recent projects. </p>
-
  Feel free to <a href="https://yourportfolio.com" target="_blank">visit my portfolio website</a> to find out more about me and explore some of my recent projects.
 
 
