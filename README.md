@@ -4,6 +4,9 @@
 <p align="left">Feel free to visit my portfolio website <a href="https://sonukumar.vercel.app/" target="_blank">PORTFOLIO</a>
  to find out more about me and explore some of my recent projects. </p>
 
+ Feel free to <a href="https://yourportfolio.com" target="_blank">visit my portfolio website</a> to find out more about me and explore some of my recent projects.
+
+
 
 👨‍💻 All of my projects are available at [https://github.com/Sonu8544](https://github.com/Sonu8544)
 
