@@ -13,7 +13,7 @@ Know about my experiences: [Resume](https://drive.google.com/file/d/154GriKQw-Qn
 <p>
     Phone: <a href="tel:+918544098398">+91 8544098398</a>,<br>
     Email: <a href="mailto:sksonu8544@gmail.com">sksonu8544@gmail.com</a>,<br>
-    LinkedIn: <a href="https://www.linkedin.com/in/8544-sonukumar/">LinkedIn</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/8544-sonukumar/">Linkedin</a>
 </p>
 
 <h3 align="left">Front End:</h3>
