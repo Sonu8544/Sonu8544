@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=sonu8544&color=brightgreen)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
