@@ -70,16 +70,3 @@
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/sonu8544"><img alt="Check out sonu8544's profile on stardev.io" src="https://stardev.io/developers/sonu8544/badge/languages/locality.svg" /></a>
-
----
-
-
-### Top Repositories
-
-
-<a href="https://github.com/sonu8544/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonu8544&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/sonu8544/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonu8544&repo=Express-Postgres-blog&theme=algolia" />
-</a>
