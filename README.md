@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sonu8544&color=brightgreen)
 
-- 🔭 Hello i am FullStack Developer (Frontend + Backend, JavaScript, React Js, Next Js, Node Js, express Js, mongoDB ).😎
+- 🔭 Hello! I am a FullStack Developer with expertise in both Frontend and Backend technologies. My skill set includes JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB.😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
