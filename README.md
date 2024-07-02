@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sonu8544&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🔭 Hello i am FullStack Developer (Frontend + Backend, JavaScript, React Js, Next Js, Node Js, express Js, mongoDB ).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
