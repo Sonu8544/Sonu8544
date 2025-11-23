@@ -1,109 +1,150 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sonu+Kumar!+👋;Full-Stack+Developer;Crafting+Scalable+Web+Experiences&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Sonu+Kumar!+👋;Full-Stack+Developer+%7C+Cloud+%7C+DevOps;Building+Scalable+Digital+Experiences;Welcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu8544&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 **About Me**
 
-Experienced **Full-Stack Developer (5+ years)** specializing in building high-performance, scalable web applications.  
-I work across the **MERN stack, Next.js, Node.js, TypeScript, and modern cloud environments**.
+🚀 **Full-Stack Developer (5+ years)** with experience building  
+**high-performance, secure, scalable applications** using modern tech.
 
-- 🔭 Currently building full-stack applications using **Next.js, Node.js, Shopify, Remix, and AWS**  
-- 👨‍💻 Passionate about writing clean, maintainable, and scalable code  
-- 🚀 Actively exploring **Cloud, Microservices, CI/CD, Docker & Kubernetes**  
-- 📚 Love reading documentation & experimenting with new technologies  
-- 🎯 **2025 Goal:** Master DevOps & scalable system architecture  
-- ⚡ Fun fact: _In JavaScript, `[] == ![]` is true 😄_
+💡 Passionate about **Cloud, Distributed Systems, DevOps, CI/CD, and AI-powered apps**.
+
+I enjoy building things that solve real problems —  
+from **E-Commerce** to **SaaS**, **API systems**, **Real-time apps**, and **Enterprise Web Apps**.
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ **What I Do (My Tech Superpowers)**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/8544-sonukumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://twitter.com/sonu8544">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:sksonu8544@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### **🏗 Full-Stack Development**
+- React.js, Next.js, Redux, Tailwind  
+- Node.js, Express.js, NestJS  
+- TypeScript + JavaScript (Expert)
+
+### **🛢 Databases & Caching**
+- MongoDB, PostgreSQL, MySQL  
+- Redis, DynamoDB  
+- ORM: Prisma, Mongoose
+
+### **☁️ Cloud & DevOps**
+- AWS (EC2, S3, Lambda, API Gateway, CloudFront, RDS)  
+- Docker & Docker Compose  
+- CI/CD (GitHub Actions, Jenkins)  
+- Linux, Ubuntu, NGINX, PM2  
+- Microservices, Load Balancing, Auto Scaling
+
+### **🧠 Additional**
+- Python (Automation, APIs)  
+- WebSockets (Real-time Events)  
+- Shopify + Remix + Hydrogen  
+- System Architecture + Performance Optimization
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ **Skills & Technologies**
 
 ### **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![NestJS](https://img.shields.io/badge/NestJS-D9224D?style=flat-square&logo=nestjs&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00A7D0?style=flat-square&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-49A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### **Databases & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 **Highlighted Expertise**
+
+### **🔹 Scalable App Architecture**
+- API rate limiting  
+- Caching strategies (Redis, CDN)  
+- Background Jobs  
+- Horizontal Scaling & Load Balancing  
+- Event-driven apps (Queues, Webhooks)
+
+### **🔹 CI/CD Automation**
+- Automated builds  
+- Deployments to AWS / Vercel  
+- Docker pipelines  
+- Linting + Testing workflows
+
+### **🔹 Shopify & Headless E-Commerce**
+- Shopify Liquid  
+- Shopify Hydrogen / Remix  
+- Checkout UI Extensions  
+- Global multi-market stores
+
+---
+
+# 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=algolia&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔝 Most Used Languages
+# 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu8544&theme=dracula&margin-w=15&column=6" />
 </p>
 
 ---
 
-## 🌟 StarDev Ranking
+# 🌐 **StarDev Ranking**
 
 <p align="center">
   <a href="https://stardev.io/developers/sonu8544">
-    <img src="https://stardev.io/developers/sonu8544/badge/languages/locality.svg" alt="StarDev Ranking"/>
+    <img src="https://stardev.io/developers/sonu8544/badge/languages/locality.svg" />
   </a>
 </p>
 
 ---
 
-## 🚀 Thanks for Visiting!
+# 🤝 **Let’s Connect**
 
-⭐ **Feel free to fork, star, or reach out — always open for collaboration!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/8544-sonukumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/sonu8544">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:sksonu8544@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
