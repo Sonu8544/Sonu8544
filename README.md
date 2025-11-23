@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sonu+Kumar!+👋;Senior+Full-Stack+Developer;MERN+|+Python+|+Cloud+Engineer;Welcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
 </p>
 
