@@ -116,10 +116,8 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 ---
 
 # 🌐 **StarDev Ranking**
-<p align="center">
-  <a href="https://stardev.io/developers/sonu8544">
+<p align="left">
     <img src="https://stardev.io/developers/sonu8544/badge/languages/global.svg" />
-  </a>
 </p>
 
 ---
