@@ -1,68 +1,110 @@
-<h1 align="center">👋 Hi, I'm Sonu Kumar</h1>
-<h3 align="center">Senior Full-Stack | Shopify | MERN | TypeScript | Cloud & DevOps</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sonu+Kumar!+👋;Senior+Full-Stack+Developer;Cloud+|+DevOps+|+Shopify+Expert;Welcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me  
+# 👨‍💻 **About Me**
+Highly skilled **Senior Full-Stack Developer (5+ years)** with strong expertise in  
+**JavaScript, TypeScript, React.js, Next.js, Node.js, AWS, DevOps, and Shopify Headless Development**.
 
-I’m a **Senior Full-Stack Developer** with **5+ years of experience** in designing, developing, and scaling world-class applications using **JavaScript, TypeScript, React, Next.js, Node.js, Python, Shopify, and Cloud infrastructures**.
+I build **high-performance, scalable, secure digital experiences** for international brands, e-commerce platforms, real-time apps, and enterprise systems.
 
-I build everything from  
-**E-commerce Platforms → SaaS Apps → Headless Shopify → Real-Time Apps → Enterprise Admin Systems.**
-
-### 🧩 What Defines Me as a Senior Developer  
+### 🧩 **What Defines Me as a Senior Developer**
 - ✔️ Strong understanding of **system design & scalable architectures**  
-- ✔️ Expertise in **frontend + backend + cloud + DevOps**  
-- ✔️ Skilled in **AWS, Docker, Kubernetes, Nginx, CI/CD pipelines**  
-- ✔️ Hands-on experience with **Remix, Hydrogen, Liquid, Storefront API**  
-- ✔️ Writes clean, maintainable, test-driven code (Jest + RTL)  
-- ✔️ Experience with **multi-market Shopify Plus stores (25+ markets)**  
-- ✔️ Strong debugging & performance optimization skills  
-- ✔️ Builds customer-focused, production-ready apps  
-- ✔️ Active contributor to solving complex tech challenges  
+- ✔️ Expertise in **frontend, backend, DevOps & cloud (AWS)**  
+- ✔️ Pro in **Docker, CI/CD, Automation & Infrastructure**  
+- ✔️ Experience with **Shopify Plus, Hydrogen, Remix, Storefront APIs**  
+- ✔️ Writes **clean, maintainable, and production-level code**  
+- ✔️ Excellent at debugging, performance tuning & optimization  
+- ✔️ Strong ownership, collaboration & mentoring mindset  
+- ✔️ Builds **distributed, reliable, secure applications**  
+
+💡 **Mission**: Deliver fast, scalable, user-centric applications with world-class engineering quality.
 
 ---
 
-## 🏆 Achievements  
+# 🛠️ **Skills & Technologies**
 
-- 🥇 **Hackathon Winner** – MIT Meerut  
-- 👨‍💻 **Solved 650+ DSA questions** on LeetCode  
-- 📚 Mastered **30+ DSA patterns & algorithms**  
-- 🥇 **Rank 1** in Coding Ninjas Coding Competition (among 1500+ students)  
-- 🚀 Built and deployed **multiple production-grade software & applications** now live in the market  
-- 🌍 Worked on global brands with **international multi-warehouse architecture**  
-- 💼 Developed multiple Shopify Plus & Headless apps used by thousands of customers  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-### 🚀 Frontend  
-- React.js · Next.js · Remix.js · TypeScript · JavaScript  
-- TailwindCSS · ShadCN UI · Redux · Zustand  
-- Liquid (Shopify Themes)  
-
-### 🔧 Backend  
-- Node.js · Express.js  
-- MongoDB · PostgreSQL  
-- REST · GraphQL · WebSockets  
-
-### ☁️ Cloud, DevOps & Infrastructure  
-- AWS (EC2, S3, CloudFront, Lambda, RDS)  
-- Docker · Kubernetes · Nginx  
-- CI/CD (GitHub Actions, Jenkins)  
-- Vercel · Netlify · Cloudflare  
-
-### 💻 Programming Languages  
-- TypeScript  
-- JavaScript  
-- Python  
-- Liquid  
-- SQL  
+## 🌐 **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 ---
 
-## 🌐 StarDev Ranking  
+## 🧩 **Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio)
+
+---
+
+## 🛢 **Databases & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
+
+---
+
+## ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/Continuous%20Integration%2FDelivery-2088FF?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 🚀 **Areas of Expertise**
+- 🔹 Scalable System Architecture  
+- 🔹 Microservices, APIs, Webhooks  
+- 🔹 High-performance E-Commerce Platforms  
+- 🔹 Shopify Plus, Hydrogen, Remix  
+- 🔹 Distributed Systems & Real-Time Apps  
+- 🔹 CI/CD Automation (GitHub Actions, Jenkins)  
+- 🔹 Caching, Queueing, Background Jobs  
+- 🔹 Cloud Infra (AWS EC2, S3, Lambda, CloudFront, API Gateway, RDS)
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 **GitHub Trophy**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu8544&theme=dracula&margin-w=15&column=6" />
+</p>
+
+---
+
+# 🌐 **StarDev Ranking (Fixed)**
+
 <p align="center">
   <a href="https://stardev.io/developers/sonu8544">
     <img src="https://stardev.io/developers/sonu8544/badge/languages/global.svg" alt="StarDev Ranking"/>
@@ -71,42 +113,20 @@ I build everything from
 
 ---
 
-## 🔝 Most Used Languages  
+# 🤝 **Connect With Me**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&exclude_repo=templates" />
-</p>
-
-### 🔤 Additional Key Languages I Use  
-- 🟦 TypeScript  
-- 🟡 JavaScript  
-- 🐍 Python  
-- 💚 Liquid  
-- 🧩 SQL / MongoDB  
-
----
-
-## 🚀 Featured Skills  
-- 🛒 Shopify Plus · Theme Migration · Checkout Extensions  
-- 🧰 Headless Shopify (Remix, Hydrogen, Storefront API)  
-- 🔄 Realtime Applications (WebSockets)  
-- 🏗️ Building SPAs, PWAs, SaaS products  
-- 🧪 Testing with Jest + React Testing Library  
-- ⚡ Performance Optimization  
-- 🧹 Clean Architecture & Code Review  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/8544-sonukumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/sonu8544">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:sksonu8544@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sonu-kumar-8544"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sonukumar8544098398@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
