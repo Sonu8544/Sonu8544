@@ -1,5 +1,5 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sonu+Kumar!+👋;Senior+Full-Stack+Developer;MERN+|+Python+|+Cloud+Engineer;Welcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%80%8B%E2%80%8BHello,+I'm+Sonu+Kumar!+👋;%E2%80%8B%E2%80%8BSenior+Full-Stack+Developer;%E2%80%8B%E2%80%8BMERN+|+Python+|+Cloud+Engineer;%E2%80%8B%E2%80%8BWelcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
 </h1>
 
 <p align="left">
@@ -9,7 +9,7 @@
 ---
 
 # 👨‍💻 **About Me**
-I’m a **Senior Full-Stack Developer (5+ years)** specializing in  
+I’m a **Senior Full-Stack Developer (3+ years)** specializing in  
 **MERN Stack, TypeScript, Python (FastAPI, Django), DevOps, Cloud Infrastructure & Scalable System Design**.
 
 I build **high-performance, secure, scalable applications & platforms** used by thousands of users—  
