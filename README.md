@@ -124,31 +124,23 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 ---
 
 ## 🤝 Open to Collaborate  
-💬 I love collaborating on **large-scale engineering projects, Shopify solutions, SaaS apps, DevOps pipelines, and full-stack products**.  
-If you have an idea or need a tech partner — **I’m open to work with you!**
+I’m open to collaborating on **large-scale engineering projects** involving  
+**MERN Stack, TypeScript, Python (FastAPI/Django), Shopify Full-Stack Development,  
+Headless Commerce, Microservices, Real-Time Systems, Cloud Infrastructure (AWS),  
+CI/CD Automation, DevOps Pipelines, and Scalable System Architecture**.
 
----
+If you’re seeking a **high-performance engineer** who can design, develop, and scale  
+**complex applications, distributed systems, Shopify stores/apps, or enterprise-grade platforms** —  
+**let’s connect and build something exceptional together.**
 
+-
 ## 📞 Contact  
-📱 **Phone:** 8544098398  
+📱 **Phone:** +91 8544098398  
 📧 **Email:** sksonu8544@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sonu8544/  
+🔗 **LinkedIn:** www.linkedin.com/in/sonu8544  
 
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/8544-sonukumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sksonu8544@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/sonu8544">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
-
-<h3 align="center">⭐ If you find my work inspiring, feel free to star my repositories!</h3>
+<h3 align="center">⭐ If you find my work inspiring, feel free to star my public repositories!</h3>
 
 
 
