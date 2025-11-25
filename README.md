@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&lines=Hello,+I'm+Sonu+Kumar!+👋;Senior+Full-Stack+Developer;MERN+Developer;Python+Developer;Cloud+Engineer;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&lines=Hello+I'm+Sonu+Kumar!;Full-Stack+Developer;MERN+|+Python+|+Cloud;Welcome+to+my+GitHub!">
 </h1>
+
 
 
 <p align="left">
