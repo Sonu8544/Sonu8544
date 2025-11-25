@@ -123,7 +123,19 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 
 ---
 
-# 🤝 **Connect With Me**
+## 🤝 Open to Collaborate  
+💬 I love collaborating on **large-scale engineering projects, Shopify solutions, SaaS apps, DevOps pipelines, and full-stack products**.  
+If you have an idea or need a tech partner — **I’m open to work with you!**
+
+---
+
+## 📞 Contact  
+📱 **Phone:** 8544098398  
+📧 **Email:** sksonu8544@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sonu8544/  
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/8544-sonukumar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
