@@ -111,7 +111,7 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 # 🏆 **GitHub Trophy**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu8544&theme=dracula&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu8544&theme=dracula&margin-w=15&column=8" />
 </p>
 
 ---
