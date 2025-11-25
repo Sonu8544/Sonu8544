@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%80%8B%E2%80%8BHello,+I'm+Sonu+Kumar!+👋;%E2%80%8B%E2%80%8BSenior+Full-Stack+Developer;%E2%80%8B%E2%80%8BMERN+|+Python+|+Cloud+Engineer;%E2%80%8B%E2%80%8BWelcome+to+my+GitHub!&center=true&size=28&color=00F5FF">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&lines=Hello,+I'm+Sonu+Kumar!+👋;Senior+Full-Stack+Developer;MERN+Developer;Python+Developer;Cloud+Engineer;Welcome+to+my+GitHub!">
 </h1>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
