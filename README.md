@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Shopify+Full-Stack+Developer;Shopify+App+Developer;MERN+Developer;JavaScript+%7C+TypeScript;React+JS+%7C+Next+JS;MongoDB+%7C+MySQL+%7C+PostgreSQL;AWS+%7C+CI/CD+Pipeline;Thanks+for+visiting!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&width=780&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;JavaScript+%7C+TypeScript;React+JS+%7C+Next+JS+%7C+Remix+JS;MERN+Developer;MongoDB+%7C+MySQL+%7C+PostgreSQL;AWS+%7C+CI%2FCD+Pipeline;Shopify+Developer+%7C+Shopify+App+Developer;Connect+with+me:+sksonu8544%40gmail.com;LinkedIn:+linkedin.com%2Fin%2Fsonu8544;">
 </h1>
+
 
 
 
