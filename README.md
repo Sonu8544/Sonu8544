@@ -10,7 +10,7 @@
 ---
 
 # 👨‍💻 **About Me**
-I’m a **Senior Full-Stack Developer (3+ years)** specializing in  
+I’m a **Full-Stack Developer (3+ years)** specializing in  
 **MERN Stack, TypeScript, Python (FastAPI, Django), DevOps, Cloud Infrastructure & Scalable System Design**.
 
 I build **high-performance, secure, scalable applications & platforms** used by thousands of users—  
