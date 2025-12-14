@@ -15,19 +15,12 @@
 
 
 ## 👨‍💻 About Me
-I’m a **Full-Stack Developer (3+ years of experience)** specializing in  
-**MERN Stack, JavaScript, TypeScript, React.js, Next.js, Remix.js, Node.js, Express.js,  
-Python (FastAPI & Django), DevOps, Cloud Infrastructure, and Scalable System Design**.
+I’m a **Full-Stack Developer with 3+ years of experience**, currently building scalable, production-grade applications in the **health, wellness, and e-commerce domain**.
 
-I build **secure, high-performance, and scalable applications** used by thousands of users —  
-including **SaaS platforms, enterprise dashboards, real-time systems, REST & GraphQL APIs,  
-and large-scale e-commerce solutions**.
+I started my professional journey with an **internship at Mobiloitte Technology**, where I built a strong foundation in modern web development.  
+After my internship, I joined **ILEM Japan**, a beauty and wellness company operating across **the USA, Japan, and India**, contributing to international e-commerce platforms.
 
-My expertise spans **frontend engineering (React, Next.js, Remix, Tailwind CSS)**,  
-**backend development (Node.js, Express, FastAPI, Django)**,  
-**databases (MongoDB, MySQL, PostgreSQL, Redis)**, and  
-**cloud & DevOps (AWS, Docker, CI/CD pipelines, Nginx, Linux)**,  
-ensuring **end-to-end ownership from architecture to production deployment**.
+For the past **1.6+ years**, I’ve been working at **Wellnessextract**, a **health and supplements company** operating in **25+ countries**, with headquarters in **British Columbia**, delivering scalable, secure, and high-performance digital solutions beyond traditional supplement platforms.
 
 💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
 
