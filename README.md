@@ -1,105 +1,110 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5FF&center=true&vCenter=true&width=780&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;JavaScript+%7C+TypeScript;React+JS+%7C+Next+JS+%7C+Remix+JS;Python+%7C+Django+%7C+FastAPI;MERN+Developer;MongoDB+%7C+MySQL+%7C+PostgreSQL;AWS+%7C+CI%2FCD+Pipeline;Shopify+Developer+%7C+Shopify+App+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sonu+Kumar+%F0%9F%91%8B;Senior+Full-Stack+Developer;MERN+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Remix;FastAPI+%7C+Django+%7C+Node.js;AWS+%7C+Docker+%7C+CI%2FCD;Shopify+%7C+Headless+Commerce">
 </h1>
 
-
-<p align="left">
+<p align="center">
+  <a href="https://leetcode.com/u/sonu8544/">
+    <img src="https://img.shields.io/badge/LeetCode-sonu8544-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.linkedin.com/in/sonu8544">
+    <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 **About Me**
-I’m a **Full-Stack Developer (3+ years)** specializing in  
-**MERN Stack, TypeScript, Python (FastAPI, Django), DevOps, Cloud Infrastructure & Scalable System Design**.
+## 👨‍💻 About Me
 
-I build **high-performance, secure, scalable applications & platforms** used by thousands of users—  
-from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce systems**, and more.
+I’m a **Senior Full-Stack Developer (3+ years)** specializing in **MERN Stack, TypeScript, Python (FastAPI & Django), DevOps, Cloud Infrastructure, and Scalable System Design**.
 
-### 🧩 **What Defines Me as a Senior Developer**
-- ✔️ Deep expertise in **JavaScript, TypeScript, Python, MERN**  
-- ✔️ Strong in **architecture, system design & scalability patterns**  
-- ✔️ Hands-on with **Docker, CI/CD, Nginx, AWS, Linux, microservices**  
-- ✔️ Clean, maintainable, test-driven engineering (Jest, PyTest)  
-- ✔️ Strong problem-solving (650+ DSA questions + 30+ DSA patterns)  
-- ✔️ Experienced in real-time systems (WebSockets) & distributed apps  
-- ✔️ Cross-functional collaboration & leadership mindset  
+I build **secure, high-performance, and scalable applications** used by thousands of users — including **SaaS platforms, enterprise dashboards, real-time systems, APIs, and e-commerce solutions**.
 
-💡 **Goal**: Build world-class scalable engineering products with speed, reliability & clean architecture.
+💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
 
 ---
 
-# 🏆 **Achievements**
-- 🥇 **Hackathon Winner** — MIT Meerut  
-- 👨‍💻 **Solved 650+ DSA Questions** (30+ Patterns & Algorithms)  
-- 🥇 **Rank 1** – Coding Ninjas Coding Competition (1500+ participants)  
-- 🚀 Built & deployed **multiple full-stack production software** used by global clients  
-- 📦 Delivered **high-performance MERN + Python apps** for companies worldwide  
-- 🌍 Worked on multi-region, scalable cloud systems (AWS + Docker)
+## 🧠 What Defines Me as a Senior Engineer
+- ✔️ Deep expertise in **JavaScript, TypeScript, Python & MERN Stack**
+- ✔️ Strong foundation in **system design & scalability patterns**
+- ✔️ Hands-on with **AWS, Docker, CI/CD, Nginx & Linux**
+- ✔️ Clean, test-driven development (**Jest, PyTest**)
+- ✔️ Solved **650+ DSA problems** across **30+ patterns**
+- ✔️ Real-time systems using **WebSockets**
+- ✔️ Ownership mindset & cross-team collaboration
 
 ---
 
-# 🛠️ **Skills & Technologies**
+## 🏆 Achievements
+- 🥇 **Hackathon Winner** — MIT Meerut
+- 🥇 **Rank 1** — Coding Ninjas Competition (1500+ participants)
+- 🧠 **650+ DSA problems solved**
+- 🚀 Built & deployed **production-grade full-stack systems**
+- 🌍 Experience with **multi-region AWS cloud architectures**
 
-## 🌐 **Frontend (Full Stack UI)**
+---
+
+## 🧠 Problem Solving & DSA (LeetCode)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sonu8544?theme=dark&font=Karma&ext=contest" />
+</p>
+
+### 📌 DSA Highlights
+- ✅ 600+ problems solved
+- ✅ Strong in **Arrays, Trees, Graphs, DP, Sliding Window, Recursion**
+- ✅ 30+ algorithmic patterns mastered
+
+🔗 **LeetCode:** https://leetcode.com/u/sonu8544
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 ---
 
-## 🔧 **Backend (Core Strength)**
+### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
 
 ---
 
-## 🛢 **Databases & Storage**
+### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
 
 ---
 
-## ☁️ **Cloud, DevOps & Infrastructure**
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
 ---
 
-# 🚀 **Areas of Expertise**
-- 🔹 MERN Stack + TypeScript  
-- 🔹 Python (FastAPI, Django) Backend Engineering  
-- 🔹 High-performance APIs & microservices  
-- 🔹 Distributed systems & real-time architecture  
-- 🔹 Scalable cloud apps (AWS, Docker, Nginx)  
-- 🔹 Authentication, security, RBAC, JWT, OAuth  
-- 🔹 CI/CD automation (GitHub Actions, Jenkins)  
-- 🔹 System design, caching, queues, message brokers  
-
----
-
-# 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -108,47 +113,22 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 
 ---
 
-## **🧠 🏆Problem Solving (LeetCode)**
+## 🤝 Open to Collaborate
 
-<p align="left">
-  <img src="https://camo.githubusercontent.com/b73174609e9184d1a842d8bd6980a608e5bc2ed7baa1b459e4bebac2c22d1047/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736f6e75383534343f7468656d653d6461726b26666f6e743d4b61726d61266578743d636f6e74657374" />
-</p>
-
-### 📌 DSA Highlights
-- ✅ **600+ problems solved**
-- ✅ Strong in **Arrays, Trees, Graphs, DP, Recursion, Sliding Window**
-- ✅ **30+ DSA patterns** mastered
-- ✅ Rank 1 – Coding Ninjas Competition (1500+ participants)
-
-🔗 **LeetCode Profile:** https://leetcode.com/u/sonu8544
-
-## 🏆 Achievements
-- 🥇 Hackathon Winner — MIT Meerut
-- 🥇 Rank 1 — Coding Ninjas Coding Contest
-- 🚀 Built multiple production‑grade full‑stack apps
-- 🌍 Worked on scalable, multi‑region AWS systems
+I’m open to **senior-level full-stack & backend roles**, and collaborations involving:
+- MERN Stack & TypeScript systems
+- Python (FastAPI / Django) platforms
+- Shopify & Headless Commerce
+- Microservices & Real-time systems
+- Cloud Infrastructure & DevOps (AWS)
 
 ---
 
-## 🤝 Open to Collaborate  
-I’m open to collaborating on **large-scale engineering projects** involving  
-**MERN Stack, TypeScript, Python (FastAPI/Django), Shopify Full-Stack Development,  
-Headless Commerce, Microservices, Real-Time Systems, Cloud Infrastructure (AWS),  
-CI/CD Automation, DevOps Pipelines, and Scalable System Architecture**.
+## 📞 Contact
+- 📱 **Phone:** +91 8544098398
+- 📧 **Email:** sksonu8544@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sonu8544
 
-If you’re seeking a **high-performance engineer** who can design, develop, and scale  
-**complex applications, distributed systems, Shopify stores/apps, or enterprise-grade platforms** —  
-**let’s connect and build something exceptional together.**
+---
 
--
-## 📞 Contact  
-📱 **Phone:** +91 8544098398  
-📧 **Email:** sksonu8544@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/sonu8544  
-
-
-<h3 align="left">⭐ If you find my work inspiring, feel free to star my public repositories!</h3>
-
-
-
-
+<h3 align="center">⭐ If you like my work, consider starring my repositories</h3>
