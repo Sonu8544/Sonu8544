@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=780&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar;Full-Stack+Engineer;MERN+%7C+Python+%7C+Cloud+Architect;Building+Scalable+Digital+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </h1>
@@ -27,14 +27,14 @@ I'm a passionate **Full-Stack Developer** with **3+ years** of experience buildi
 
 **What drives me:** Solving complex engineering challenges, optimizing performance, and creating exceptional user experiences through thoughtful architecture and cutting-edge technology.
 
-```typescript
+typescript
 const myPhilosophy = {
   code: "Clean, modular, and scalable",
   architecture: "Design-first, performance-optimized",
   mindset: "Continuous learning & innovation",
   delivery: "Production-ready, tested, documented"
 };
-```
+
 
 ---
 
@@ -183,7 +183,7 @@ I'm actively seeking opportunities to contribute to **impactful projects** that 
 💾 Databases Mastered: 6+
 ☁️ Cloud Platforms: 4+
 🎯 Happy Clients: 20+
-```
+
 
 </div>
 
@@ -199,7 +199,7 @@ I'm actively seeking opportunities to contribute to **impactful projects** that 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-```
+
 
 This enhanced version features:
 1. **Better visual hierarchy** with improved spacing and sections
