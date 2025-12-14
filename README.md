@@ -108,8 +108,6 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 
 ---
 
-# 🏆 **GitHub Trophy**
-
 ## **🧠 🏆Problem Solving (LeetCode)**
 
 <p align="left">
@@ -130,14 +128,6 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 - 🚀 Built multiple production‑grade full‑stack apps
 - 🌍 Worked on scalable, multi‑region AWS systems
 
-
----
-
-# 🌐 **StarDev Ranking**
-<p align="left">
-    <img src="https://stardev.io/developers/sonu8544/badge/languages/global.svg" />
-</p>
-
 ---
 
 ## 🤝 Open to Collaborate  
@@ -157,7 +147,7 @@ If you’re seeking a **high-performance engineer** who can design, develop, and
 🔗 **LinkedIn:** www.linkedin.com/in/sonu8544  
 
 
-<h3 align="center">⭐ If you find my work inspiring, feel free to star my public repositories!</h3>
+<h3 align="left">⭐ If you find my work inspiring, feel free to star my public repositories!</h3>
 
 
 
