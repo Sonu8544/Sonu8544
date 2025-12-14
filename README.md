@@ -3,14 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/sonu8544/">
-    <img src="https://img.shields.io/badge/LeetCode-sonu8544-orange?style=for-the-badge&logo=leetcode" />
+    <a href="mailto:sksonu8544@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sksonu8544%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sonu8544">
     <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
 </p>
+
 
 
 ## 👨‍💻 About Me
