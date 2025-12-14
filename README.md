@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
 </p>
 
--
 
 ## 👨‍💻 About Me
 
@@ -22,7 +21,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 
 💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
 
----
 
 ## 🧠 What Defines Me as a Senior Engineer
 - ✔️ Deep expertise in **JavaScript, TypeScript, Python & MERN Stack**
@@ -33,7 +31,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 - ✔️ Real-time systems using **WebSockets**
 - ✔️ Ownership mindset & cross-team collaboration
 
----
 
 ## 🏆 Achievements
 - 🥇 **Hackathon Winner** — MIT Meerut
@@ -42,7 +39,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 - 🚀 Built & deployed **production-grade full-stack systems**
 - 🌍 Experience with **multi-region AWS cloud architectures**
 
----
 
 ## 🧠 Problem Solving & DSA (LeetCode)
 
@@ -57,7 +53,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 
 🔗 **LeetCode:** https://leetcode.com/u/sonu8544
 
----
 
 ## 🛠️ Tech Stack
 
@@ -70,7 +65,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 
----
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -81,7 +75,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
 
----
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -89,7 +82,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
----
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -98,7 +90,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
----
 
 ## 📊 GitHub Analytics
 
@@ -111,7 +102,6 @@ I build **secure, high-performance, and scalable applications** used by thousand
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🤝 Open to Collaborate
 
@@ -122,7 +112,6 @@ I’m open to **senior-level full-stack & backend roles**, and collaborations in
 - Microservices & Real-time systems
 - Cloud Infrastructure & DevOps (AWS)
 
----
 
 ## 📞 Contact
 - 📱 **Phone:** +91 8544098398
