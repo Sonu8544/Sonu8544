@@ -46,7 +46,7 @@ I build **secure, high-performance, and scalable applications** used by thousand
 
 ## 🧠 Problem Solving & DSA (LeetCode)
 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/sonu8544?theme=dark&font=Karma&ext=contest" />
 </p>
 
