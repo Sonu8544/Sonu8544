@@ -110,9 +110,26 @@ from **SAAS apps, enterprise dashboards, APIs, real-time systems, e-commerce sys
 
 # 🏆 **GitHub Trophy**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu8544&theme=dracula&margin-w=15&column=8" />
+## **🧠 🏆Problem Solving (LeetCode)**
+
+<p align="left">
+  <img src="https://camo.githubusercontent.com/b73174609e9184d1a842d8bd6980a608e5bc2ed7baa1b459e4bebac2c22d1047/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736f6e75383534343f7468656d653d6461726b26666f6e743d4b61726d61266578743d636f6e74657374" />
 </p>
+
+### 📌 DSA Highlights
+- ✅ **600+ problems solved**
+- ✅ Strong in **Arrays, Trees, Graphs, DP, Recursion, Sliding Window**
+- ✅ **30+ DSA patterns** mastered
+- ✅ Rank 1 – Coding Ninjas Competition (1500+ participants)
+
+🔗 **LeetCode Profile:** https://leetcode.com/u/sonu8544
+
+## 🏆 Achievements
+- 🥇 Hackathon Winner — MIT Meerut
+- 🥇 Rank 1 — Coding Ninjas Coding Contest
+- 🚀 Built multiple production‑grade full‑stack apps
+- 🌍 Worked on scalable, multi‑region AWS systems
+
 
 ---
 
