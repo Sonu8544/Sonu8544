@@ -15,10 +15,19 @@
 
 
 ## 👨‍💻 About Me
+I’m a **Full-Stack Developer (3+ years of experience)** specializing in  
+**MERN Stack, JavaScript, TypeScript, React.js, Next.js, Remix.js, Node.js, Express.js,  
+Python (FastAPI & Django), DevOps, Cloud Infrastructure, and Scalable System Design**.
 
-I’m a **Senior Full-Stack Developer (3+ years)** specializing in **MERN Stack, TypeScript, Python (FastAPI & Django), DevOps, Cloud Infrastructure, and Scalable System Design**.
+I build **secure, high-performance, and scalable applications** used by thousands of users —  
+including **SaaS platforms, enterprise dashboards, real-time systems, REST & GraphQL APIs,  
+and large-scale e-commerce solutions**.
 
-I build **secure, high-performance, and scalable applications** used by thousands of users — including **SaaS platforms, enterprise dashboards, real-time systems, APIs, and e-commerce solutions**.
+My expertise spans **frontend engineering (React, Next.js, Remix, Tailwind CSS)**,  
+**backend development (Node.js, Express, FastAPI, Django)**,  
+**databases (MongoDB, MySQL, PostgreSQL, Redis)**, and  
+**cloud & DevOps (AWS, Docker, CI/CD pipelines, Nginx, Linux)**,  
+ensuring **end-to-end ownership from architecture to production deployment**.
 
 💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
 
