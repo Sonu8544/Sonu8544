@@ -15,12 +15,17 @@
 
 
 ## 👨‍💻 About Me
-I’m a **Full-Stack Developer with 3+ years of experience**, currently building scalable, production-grade applications in the **health, wellness, and e-commerce domain**.
+I’m a **Full-Stack Developer with 3+ years of professional experience**, specializing in building **scalable, secure, and high-performance web applications** in the **health, wellness, and e-commerce domain**.
 
-I started my professional journey with an **internship at Mobiloitte Technology**, where I built a strong foundation in modern web development.  
-After my internship, I joined **ILEM Japan**, a beauty and wellness company operating across **the USA, Japan, and India**, contributing to international e-commerce platforms.
+I began my development journey with an **internship at Mobiloitte Technology**, where I built a strong foundation in **frontend and backend engineering**, modern JavaScript frameworks, and real-world project workflows.
 
-For the past **1.6+ years**, I’ve been working at **Wellnessextract**, a **health and supplements company** operating in **25+ countries**, with headquarters in **British Columbia**, delivering scalable, secure, and high-performance digital solutions beyond traditional supplement platforms.
+After completing my internship, I joined **ILEM Japan**, a global **beauty and wellness company operating across the USA, Japan, and India**. There, I worked on **international e-commerce platforms**, handling real production systems, performance optimization, and cross-region requirements.
+
+For the past **1.6+ years**, I’ve been working at **Wellnessextract**, a **health and supplements company operating in 25+ countries**, headquartered in **British Columbia**. During this time, I’ve been deeply involved in building and scaling **enterprise-grade applications, APIs, and e-commerce systems** used by thousands of users worldwide.
+
+Throughout these **1.6+ years**, I’ve continuously **upskilled myself day by day**, learning and applying **new technologies, best practices, and system design principles**. I actively work with **React, Next.js, Remix.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Docker, AWS, and CI/CD pipelines**, while improving my understanding of **scalable architecture, cloud infrastructure, performance optimization, and clean engineering practices**.
+
+I’m passionate about **continuous learning, problem-solving, and building products that scale globally**, with a strong focus on **code quality, performance, and long-term maintainability**.
 
 💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
 
