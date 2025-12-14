@@ -34,7 +34,7 @@ I work across **frontend, backend, cloud, and DevOps**, delivering:
 ## 🧠 Problem Solving (LeetCode)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sonu8544?theme=dark&font=Karma&ext=contest" />
+  <img src="https://camo.githubusercontent.com/b73174609e9184d1a842d8bd6980a608e5bc2ed7baa1b459e4bebac2c22d1047/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736f6e75383534343f7468656d653d6461726b26666f6e743d4b61726d61266578743d636f6e74657374" />
 </p>
 
 ### 📌 DSA Highlights
