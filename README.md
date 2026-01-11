@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sonu+Kumar+%F0%9F%91%8B;Senior+Full-Stack+Developer;MERN+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Remix;FastAPI+%7C+Django+%7C+Node.js;AWS+%7C+Docker+%7C+CI%2FCD;Shopify+%7C+Headless+Commerce">
 </h1>
 
