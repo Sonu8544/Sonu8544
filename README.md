@@ -1,131 +1,99 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sonu+Kumar+%F0%9F%91%8B;Senior+Full-Stack+Developer;MERN+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Remix;FastAPI+%7C+Django+%7C+Node.js;AWS+%7C+Docker+%7C+CI%2FCD;Shopify+%7C+Headless+Commerce">
-</h1>
+# Hi there, I'm Sonu Kumar! 👋
 
-<p align="center">
-    <a href="mailto:sksonu8544@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sksonu8544%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sonu8544">
-    <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Kumar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sonu8544&color=blueviolet&style=for-the-badge" />
-</p>
+## Full-Stack MERN Developer | Building Scalable Web Solutions
 
-
-
-## 👨‍💻 About Me
-I’m a **Full-Stack Developer with 3+ years of professional experience**, specializing in building **scalable, secure, and high-performance web applications** in the **health, wellness, and e-commerce domain**.
-
-I began my development journey with an **internship at Mobiloitte Technology**, where I built a strong foundation in **frontend and backend engineering**, modern JavaScript frameworks, and real-world project workflows.
-
-After completing my internship, I joined **ILEM Japan**, a global **beauty and wellness company operating across the USA, Japan, and India**. There, I worked on **international e-commerce platforms**, handling real production systems, performance optimization, and cross-region requirements.
-
-For the past **1.6+ years**, I’ve been working at **Wellnessextract**, a **health and supplements company operating in 25+ countries**, headquartered in **British Columbia**. During this time, I’ve been deeply involved in building and scaling **enterprise-grade applications, APIs, and e-commerce systems** used by thousands of users worldwide.
-
-Throughout these **1.6+ years**, I’ve continuously **upskilled myself day by day**, learning and applying **new technologies, best practices, and system design principles**. I actively work with **React, Next.js, Remix.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Docker, AWS, and CI/CD pipelines**, while improving my understanding of **scalable architecture, cloud infrastructure, performance optimization, and clean engineering practices**.
-
-I’m passionate about **continuous learning, problem-solving, and building products that scale globally**, with a strong focus on **code quality, performance, and long-term maintainability**.
-
-💡 **Engineering Focus:** Clean architecture • Performance • Scalability • Reliability
-
-
-## 🧠 What Defines Me as a Senior Engineer
-- ✔️ Deep expertise in **JavaScript, TypeScript, Python & MERN Stack**
-- ✔️ Strong foundation in **system design & scalability patterns**
-- ✔️ Hands-on with **AWS, Docker, CI/CD, Nginx & Linux**
-- ✔️ Clean, test-driven development (**Jest, PyTest**)
-- ✔️ Solved **650+ DSA problems** across **30+ patterns**
-- ✔️ Real-time systems using **WebSockets**
-- ✔️ Ownership mindset & cross-team collaboration
-
-
-## 🏆 Achievements
-- 🥇 **Hackathon Winner** — MIT Meerut
-- 🥇 **Rank 1** — Coding Ninjas Competition (1500+ participants)
-- 🧠 **650+ DSA problems solved**
-- 🚀 Built & deployed **production-grade full-stack systems**
-- 🌍 Experience with **multi-region AWS cloud architectures**
-
-
-## 🧠 Problem Solving & DSA (LeetCode)
-
-<p align="left">
-  <img src="https://camo.githubusercontent.com/b73174609e9184d1a842d8bd6980a608e5bc2ed7baa1b459e4bebac2c22d1047/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736f6e75383534343f7468656d653d6461726b26666f6e743d4b61726d61266578743d636f6e74657374" />
-</p>
-
-### 📌 DSA Highlights
-- ✅ 600+ problems solved
-- ✅ Strong in **Arrays, Trees, Graphs, DP, Sliding Window, Recursion**
-- ✅ 30+ algorithmic patterns mastered
-
-🔗 **LeetCode:** https://leetcode.com/u/sonu8544
-
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
-
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu8544&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🤝 Open to Collaborate
-
-I’m open to **senior-level full-stack & backend roles**, and collaborations involving:
-- MERN Stack & TypeScript systems
-- Python (FastAPI / Django) platforms
-- Shopify & Headless Commerce
-- Microservices & Real-time systems
-- Cloud Infrastructure & DevOps (AWS)
-
-
-## 📞 Contact
-- 📱 **Phone:** +91 8544098398
-- 📧 **Email:** sksonu8544@gmail.com
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/sonu8544
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu8544)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonu8544)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://.netlify.app/)
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider starring my repositories</h3>
+## 🚀 About Me
+
+I'm a passionate Full-Stack Developer specializing in building modern, scalable web applications using the MERN stack. With expertise in:
+
+- **E-commerce & Marketplace Integrations** (Amazon SP-API, Shopify)
+- **Microservices Architecture** & Cloud Infrastructure
+- **Real-time Applications** using WebSockets
+- **Database Optimization** & Query Performance
+- **DevOps & CI/CD** pipelines
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 💼 What I'm Currently Working On
+
+- 🔧 Building robust microservices with Node.js & TypeScript
+- 📊 Optimizing database queries and API performance
+- 🚀 Implementing real-time features with WebSockets
+- 🌐 Integrating third-party APIs (Amazon, Shopify, etc.)
+- 📚 Exploring advanced patterns in system design
+
+---
+
+## 🎯 Featured Projects
+
+### 🌐 [Collaborative Code Editor](https://github.com/sonu8544/collaborative-code-editor)
+A real-time collaborative code editor with multi-user support, featuring WebSockets for instant synchronization.
+- **Tech**: React, Node.js, WebSockets, MongoDB
+
+### 💼 [Portfolio](https://github.com/sonu8544/portfolio-main)
+Modern, responsive portfolio showcasing my projects and skills with smooth animations and interactions.
+- **Tech**: Next.js, Tailwind CSS, Framer Motion
+
+### 💰 [Expense Tracker](https://github.com/sonu8544/Expense-Tracker)
+Full-stack expense management application with advanced filtering and analytics.
+- **Tech**: MERN Stack, Chart.js
+
+---
+
+## 🌱 Learning & Growing
+
+I'm constantly expanding my knowledge in:
+- Advanced System Design patterns
+- Cloud Architecture & DevOps
+- AI/ML integration in web applications
+- Advanced Database Optimization
+
+---
+
+## 💬 Let's Connect!
+
+**Open to:**
+- Collaboration on exciting projects
+- Technical discussions & knowledge sharing
+- Mentoring & learning opportunities
+- Full-time or freelance opportunities
+
+📧 **Reach out via:** [LinkedIn](https://linkedin.com/in/sonu8544) | [Twitter](https://twitter.com/sonu8544) | [Portfolio](https://sonu8544.dev)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Sonu Kumar**
+
+⭐ If you like my projects, feel free to star them!
+
+</div>
