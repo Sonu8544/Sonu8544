@@ -192,11 +192,14 @@ I'm constantly expanding my expertise in:
 
 📧 **Reach out via:** [LinkedIn](https://linkedin.com/in/sonu8544) | [Twitter](https://twitter.com/sonu8544) | [Portfolio](https://sonu8544.dev)
 
+📞 **Phone:** +91 8544098398  
+📧 **Email:** sksonu8544@gmail.com
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=radical&hide_border=true)
   
