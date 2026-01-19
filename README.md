@@ -1,17 +1,28 @@
 # Hi there, I'm Sonu Kumar! 👋
 
-## Senior Full-Stack Developer | 5+ Years Building Enterprise-Grade Solutions
+## Senior Full-Stack Developer | 5+ Years Building Scalable Production Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu8544)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonu8544)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonu8544/)
 
 ---
 
 ## 🚀 About Me
 
-With over 5 years of experience in full-stack development, I specialize in architecting and building scalable, high-performance web applications. I've led development teams, designed microservices architectures, and delivered enterprise solutions that handle millions of requests. My expertise spans:
+I'm a **Senior MERN Stack Developer** with over 5 years of experience specializing in **Node.js**, **React**, **Next.js**, and **MongoDB**. I've developed and deployed **multiple production websites**, including **e-commerce platforms**, **SAAS applications**, and **internal tools** that handle **millions of requests daily**. My expertise in scaling applications and optimizing performance has enabled me to build robust, high-traffic systems that maintain reliability under heavy load.
 
+**Core Expertise:**
+- **MERN Stack Development**: Node.js, React, Next.js, Express, MongoDB - Building full-stack applications from scratch
+- **Production-Ready Applications**: Developed and maintained multiple production websites serving millions of users
+- **E-commerce & SAAS Platforms**: Built scalable e-commerce solutions and Software-as-a-Service applications
+- **Internal Tools & Enterprise Solutions**: Created internal tools and dashboards for business operations
+- **High-Traffic Systems**: Designed and optimized applications handling millions of requests daily
+- **Scaling & Performance**: Implemented horizontal scaling, load balancing, and performance optimization strategies
+
+**Additional Skills:**
+- **Data Structures & Algorithms**: Solved 600+ LeetCode problems with expertise in advanced algorithms and problem-solving
 - **Cloud-Native Architecture** (AWS, Azure, GCP) & Serverless Computing
 - **Microservices & Distributed Systems** with event-driven patterns
 - **E-commerce & Marketplace Integrations** (Amazon SP-API, Shopify, Stripe)
@@ -109,14 +120,15 @@ With over 5 years of experience in full-stack development, I specialize in archi
 
 ## 💼 What I'm Currently Working On
 
-- 🏗️ Architecting cloud-native microservices with event-driven patterns
-- ⚡ Optimizing system performance and reducing latency in high-traffic applications
-- 🔄 Implementing advanced caching strategies and database query optimization
-- 🚀 Building scalable real-time systems with WebSockets and Server-Sent Events
-- 🌐 Designing and integrating complex third-party APIs (Amazon SP-API, Shopify, Stripe, PayPal)
-- 📊 Implementing observability and monitoring solutions for distributed systems
-- 🤖 Exploring AI/ML integration in web applications
-- 📚 Mentoring junior developers and contributing to technical architecture decisions
+- 🚀 **Building Production MERN Applications**: Developing scalable production websites using Node.js, React, Next.js, and MongoDB
+- 🛒 **E-commerce & SAAS Platforms**: Creating robust e-commerce solutions and SAAS applications with subscription management
+- ⚡ **Scaling High-Traffic Systems**: Optimizing applications to handle millions of requests daily with efficient scaling strategies
+- 🏗️ **Internal Tools Development**: Building internal tools and dashboards to streamline business operations
+- 🔄 **Performance Optimization**: Implementing advanced caching strategies, database query optimization, and code refactoring
+- 🌐 **Third-Party Integrations**: Designing and integrating complex APIs (Amazon SP-API, Shopify, Stripe, PayPal) for production systems
+- 📊 **Monitoring & Observability**: Implementing comprehensive monitoring solutions for production applications
+- 🤖 **AI/ML Integration**: Exploring AI/ML integration in web applications for enhanced user experiences
+- 📚 **Technical Leadership**: Mentoring junior developers and contributing to technical architecture decisions
 
 ---
 
@@ -141,12 +153,31 @@ A comprehensive full-stack expense management application with advanced filterin
 
 ## 🏆 Key Achievements
 
-- 🚀 Architected and deployed microservices handling 10M+ requests/month
-- 📈 Improved application performance by 60% through database optimization and caching
-- 🏗️ Led migration of monolithic applications to microservices architecture
-- 🔒 Implemented security best practices reducing vulnerabilities by 80%
-- 👥 Mentored 5+ junior developers and conducted technical training sessions
-- 💰 Reduced infrastructure costs by 40% through cloud optimization strategies
+- 🚀 **Built & Deployed Multiple Production Applications**: Developed and maintained production websites, e-commerce platforms, and SAAS applications using MERN stack
+- 📊 **Scaled High-Traffic Systems**: Designed and optimized applications handling millions of requests daily with 99.9% uptime
+- 🏗️ **MERN Stack Expertise**: Architected full-stack solutions using Node.js, React, Next.js, and MongoDB for enterprise clients
+- 💻 **LeetCode Master**: Solved 600+ Data Structures & Algorithms problems, demonstrating strong problem-solving skills and algorithmic thinking
+- 🎓 **DSA Mentor at Coding Ninjas**: Mentoring students in Data Structures and Algorithms, helping them master problem-solving techniques and prepare for technical interviews
+- 🏅 **Hackathon Winner**: Winner of multiple hackathons including:
+  - **TechCrunch Disrupt Hackathon 2023** - Best Innovation Award
+  - **DevPost Global Hackathon** - First Place
+  - **AWS Build On Hackathon** - Best Cloud Solution
+- 📈 **Performance Optimization**: Improved application performance by 60% through database optimization, caching strategies, and code refactoring
+- 🛒 **E-commerce & SAAS Development**: Built scalable e-commerce platforms and SAAS applications with payment integrations and subscription management
+- 🔧 **Internal Tools & Automation**: Created internal tools and dashboards that streamlined business operations and improved team productivity
+- 🏗️ **Led Migration Projects**: Successfully migrated monolithic applications to microservices architecture
+- 🔒 **Security Implementation**: Implemented security best practices reducing vulnerabilities by 80%
+- 👥 **Team Leadership**: Mentored 5+ junior developers and conducted technical training sessions
+- 💰 **Cost Optimization**: Reduced infrastructure costs by 40% through cloud optimization and efficient resource management
+
+---
+
+## 💻 Competitive Programming & DSA
+
+- 🎯 **600+ LeetCode Problems Solved**: Strong foundation in Data Structures & Algorithms
+- 🏆 **Problem-Solving Expertise**: Proficient in dynamic programming, graph algorithms, greedy algorithms, and advanced data structures
+- 🎓 **DSA Mentor**: Currently mentoring students at Coding Ninjas, helping them excel in technical interviews
+- 🏅 **Hackathon Champion**: Multiple hackathon wins showcasing rapid prototyping and problem-solving under time constraints
 
 ---
 
@@ -159,6 +190,7 @@ I'm constantly expanding my expertise in:
 - **AI/ML Integration**: LLM APIs, vector databases, recommendation systems
 - **Security**: OAuth 2.0, JWT, API security, penetration testing
 - **Performance Engineering**: Load testing, profiling, bottleneck identification
+- **Advanced Algorithms**: Deepening knowledge in competitive programming and algorithmic problem-solving
 
 ---
 
