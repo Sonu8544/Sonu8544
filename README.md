@@ -205,18 +205,6 @@ I'm constantly expanding my expertise in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=radical&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuk8544&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 **Made with ❤️ by Sonu Kumar**
