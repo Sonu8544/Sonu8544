@@ -201,9 +201,9 @@ I'm constantly expanding my expertise in:
 
 <div align="left">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonukumar8544&show_icons=true&theme=radical&hide_border=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu8544&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar8544&layout=compact&theme=radical&hide_border=true)
   
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=sonu8544&theme=radical&hide_border=true)
 
