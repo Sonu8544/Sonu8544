@@ -190,10 +190,18 @@ I'm constantly expanding my expertise in:
 - 📚 Technical discussions, knowledge sharing, and mentoring
 - 🎯 Freelance opportunities for complex projects
 
-📧 **Reach out via:** [LinkedIn](https://linkedin.com/in/sonu8544) | [Twitter](https://twitter.com/sonu8544) | [Portfolio](https://sonu8544.dev)
+### 📬 Get In Touch
 
-📞 **Phone:** +91 8544098398  
-📧 **Email:** sksonu8544@gmail.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu8544)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonu8544)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sonu8544.dev)
+
+**📞 Phone:** `+91 8544098398`  
+**📧 Email:** `sksonu8544@gmail.com`
+
+</div>
 
 ---
 
@@ -201,11 +209,9 @@ I'm constantly expanding my expertise in:
 
 <div align="left">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonukumar8544&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu8544&show_icons=true&theme=radical&hide_border=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar8544&layout=compact&theme=radical&hide_border=true)
-  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=sonu8544&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuk8544&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
