@@ -1,6 +1,6 @@
 # Hi there, I'm Sonu Kumar! 👋
 
-## Full-Stack Developer | Scalable E‑commerce & Real-Time Systems
+## Full-Stack Developer | Scalable E‑commerce, SaaS & Real-Time Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu8544)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonu8544)
@@ -10,14 +10,30 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** focused on building production-grade, scalable web applications, with strong experience in multi-region e‑commerce, real-time systems, and cloud‑native architectures.  
-I enjoy taking products from idea to production with clean architecture, high availability, and measurable business impact.
+I'm a **Full-Stack Developer** focused on building production-grade, scalable web applications, with strong experience in multi-region e‑commerce, SaaS platforms, and real-time systems.[file:20]  
+I enjoy owning systems end-to-end — from architecture and backend services to frontend UX, infrastructure, and observability.
 
-- Full-stack product development (frontend, backend, infra)
-- Multi-market **e‑commerce platforms** and marketplace integrations
-- **Microservices**, messaging queues, and event-driven systems
-- **Real-time features** with WebSockets/Socket.IO
-- Cloud infrastructure, observability, and CI/CD automation
+---
+
+## 🧩 Core Expertise
+
+- **MERN Stack Development**: Node.js, React, Next.js, Express, MongoDB – building full-stack applications from scratch to production.  
+- **Production-Ready Applications**: Developed and maintained multiple production websites and platforms serving high traffic with 99.9% uptime.[file:20]  
+- **E‑commerce & SaaS Platforms**: Built scalable e‑commerce solutions and Software‑as‑a‑Service applications with subscriptions and payments.[file:20]  
+- **Internal Tools & Enterprise Solutions**: Created internal tools, dashboards, and IMS systems for business operations and analytics.[file:20]  
+- **High-Traffic Systems**: Designed and optimized applications handling large volumes of requests and concurrent users.[file:20]  
+- **Scaling & Performance**: Implemented horizontal scaling, load balancing, caching, and performance optimization strategies on AWS.[file:20]  
+
+---
+
+## 🔧 Additional Skills
+
+- **Data Structures & Algorithms**: 600+ LeetCode problems solved; strong problem‑solving and algorithmic thinking.[file:20]  
+- **Cloud-Native Architecture**: Experience with AWS (EC2, S3, load balancers), containerization (Docker), and CI/CD (GitHub Actions).[file:20]  
+- **Microservices & Distributed Systems**: Event-driven patterns with queues (RabbitMQ), services communication, and resilience.[file:20]  
+- **E‑commerce & Marketplace Integrations**: Amazon SP‑API, Shopify, Stripe, Razorpay integrations for production systems.[file:20]  
+- **Real-time Applications**: WebSockets/Socket.IO, real-time chat, notifications, and live features.  
+- **Database Design & Optimization**: SQL & NoSQL (PostgreSQL, MongoDB, Redis) with indexing and caching strategies.[file:20]  
 
 ---
 
@@ -26,17 +42,17 @@ I enjoy taking products from idea to production with clean architecture, high av
 ### 🏥 Wellness Extract — Full-Stack Engineer  
 *July 2024 – Present | Delhi, India*
 
-- Architected and scaled multi-market e‑commerce platforms across 25+ countries with country-specific pricing, catalogs, and taxes, driving ~30% growth in international sales.[file:20]
-- Built Amazon SP‑API and Shopify integrations connected to a centralized Inventory Management System (IMS) for real-time stock sync, order flow, and pricing updates.[file:20]
-- Developed IMS and internal business tools using MongoDB & PostgreSQL, enabling multi‑warehouse dashboards and operational KPIs, reducing inventory discrepancies by ~35%.[file:20]
-- Implemented AWS load‑balanced architecture, Dockerized services, and CI/CD pipelines, achieving 99.9% uptime and ~30% fewer production incidents.[file:20]
+- Architected and scaled multi‑market e‑commerce platforms across 25+ countries with country-specific pricing, catalogs, and taxes, driving ~30% growth in international sales.[file:20]  
+- Built Amazon SP‑API and Shopify integrations connected to a centralized Inventory Management System (IMS) for real-time stock sync, order flow, and pricing updates.[file:20]  
+- Developed IMS and internal business tools using MongoDB & PostgreSQL, enabling multi‑warehouse dashboards and KPIs, reducing inventory discrepancies by ~35%.[file:20]  
+- Implemented AWS load‑balanced architecture, Dockerized services, and CI/CD pipelines, achieving 99.9% uptime and ~30% fewer production incidents.[file:20]  
 
 ### 🛒 ILEM JAPAN — Full-Stack Engineer  
 *May 2023 – July 2024*
 
-- Built a full-stack, multi‑region e‑commerce platform (India, Japan, US) with multi‑language support and Stripe/Razorpay integration, handling ~15,000 daily visitors with 99.9% uptime.[file:20]
-- Created a headless Shopify storefront using React.js, GraphQL, and Hydrogen, reducing average page load time by 45% across regions.[file:20]
-- Designed a microservices architecture with Node.js & Express, JWT auth, RBAC, and automated testing (Jest & Cypress), managing 500+ concurrent users and reducing bugs by 30%.[file:20]
+- Built a full-stack, multi‑region e‑commerce platform (India, Japan, US) with multi‑language support and Stripe/Razorpay integration, handling ~15,000 daily visitors with 99.9% uptime.[file:20]  
+- Created a headless Shopify storefront using React.js, GraphQL, and Hydrogen, reducing average page load time by 45% across regions.[file:20]  
+- Designed a microservices architecture with Node.js & Express, JWT auth, RBAC, and automated testing (Jest & Cypress), managing 500+ concurrent users and reducing bugs by 30%.[file:20]  
 
 ---
 
@@ -66,8 +82,6 @@ I enjoy taking products from idea to production with clean architecture, high av
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -77,37 +91,58 @@ I enjoy taking products from idea to production with clean architecture, high av
 
 ---
 
-## 🔬 Personal Projects
+## 💼 What I'm Currently Working On
+
+- 🚀 **Building Production MERN Applications**: Developing scalable production websites using Node.js, React, Next.js, and MongoDB.  
+- 🛒 **E‑commerce & SaaS Platforms**: Creating robust e‑commerce solutions and SaaS applications with subscription and payment management.  
+- ⚡ **Scaling High-Traffic Systems**: Optimizing apps to handle large request volumes with efficient scaling and caching strategies.  
+- 🏗️ **Internal Tools Development**: Building internal tools and dashboards to streamline business operations and decision-making.[file:20]  
+- 🔄 **Performance Optimization**: Implementing advanced caching, database query optimization, and code refactoring.  
+- 🌐 **Third-Party Integrations**: Designing and integrating complex APIs (Amazon SP‑API, Shopify, Stripe, Razorpay, PayPal).  
+- 📊 **Monitoring & Observability**: Setting up logging, metrics, and alerting for production systems.  
+- 🤖 **AI/ML Integration**: Exploring AI/ML-powered features in web applications.  
+- 📚 **Technical Leadership & Mentoring**: Mentoring students and junior developers; contributing to architecture and design decisions.[file:20]  
+
+---
+
+## 🎯 Featured Projects
 
 ### ❤️ Full Stack Dating App (MERN)
 A production-style full-stack dating application focused on real-time interactions and scalability.[file:20]  
-- JWT auth with refresh tokens, OTP, and social login, plus Stripe subscriptions and role-based access for secure, maintainable authentication.[file:20]  
+- JWT auth with refresh tokens, OTP, social login, Stripe subscriptions, and role-based access for secure, maintainable authentication.[file:20]  
 - Real-time swipe-based matchmaking with location, interests, activity metrics, video calls, and live chat (typing indicators, media sharing via AWS S3, content moderation) supporting 200+ concurrent users.[file:20]  
-- Deployed on AWS EC2 with Nginx load balancing, PM2, and MongoDB (2TB+ data), achieving ~1.2s API response time, E2E encryption, automated testing, and zero-downtime deployments.[file:20]
+- Deployed on AWS EC2 with Nginx load balancing, PM2, and MongoDB (2TB+ data), achieving ~1.2s API response time, E2E encryption, automated testing, and zero-downtime deployments.[file:20]  
+
+### 💰 Production-Grade Expense Tracker (MERN)
+A comprehensive full-stack expense management application for individuals and teams, designed for production environments.  
+- Advanced filtering, analytics dashboard, multi-currency support, and automated categorization using ML algorithms.  
+- **Tech**: MERN Stack, Chart.js, Redis, JWT Authentication, AWS S3.  
+- Real-time analytics, export capabilities, budget tracking, and receipt OCR integration for smarter financial insights.  
 
 ---
 
 ## 🏆 Achievements
 
-- Hackathon Winner: Led a team to victory in a 3‑day national-level hackathon at Subharti University with a full‑stack MERN solution, outperforming 14+ teams.[file:20]
-- LeetCode Top 1%: Solved 600+ DSA problems, ranking in the top 1% globally.[file:20]
-- Coding Ninjas Excellence: 2nd place in a national‑level DSA competition among 1,500+ participants.[file:20]
-- Inter-College Coding Champion: 1st position among 150+ participants in coding competitions.[file:20]
+- 👨‍🏫 **Coding Ninjas Mentor**: Mentored 1,200+ students in data structures, algorithms, and full-stack development, helping them with problem-solving and interview prep.  
+- 🏆 **Hackathon Winner**: Led a team to victory in a 3‑day national-level hackathon at Subharti University with a full‑stack MERN solution, outperforming 14+ teams.[file:20]  
+- 🧠 **LeetCode Top 1%**: Solved 600+ DSA problems, ranking in the top 1% globally.[file:20]  
+- 🎖️ **Coding Ninjas Excellence**: 2nd place in a national-level DSA competition among 1,500+ participants.[file:20]  
+- 🥇 **Inter-College Coding Champion**: 1st position among 150+ participants in inter-college coding contests.[file:20]  
 
 ---
 
 ## 🌱 Learning & Growing
 
-I'm currently deepening my expertise in:
+I'm continuously improving my skills in:
 
 - Advanced **system design** and distributed architectures  
-- High-performance **database design** and optimization  
-- Observability, monitoring, and **production reliability**  
+- High-performance **database design** and query optimization  
+- **Cloud cost optimization** and reliability best practices  
 - Integrating **AI/ML** into real-world web applications  
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let’s Connect!
 
 **Open to:**
 
