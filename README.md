@@ -1,6 +1,7 @@
 # Hi there, I'm Sonu Kumar! 👋
 
 ## Full-Stack Developer | Scalable E‑commerce & Real-Time Systems
+## Full-Stack Engineer | MERN, Next.js, Node.js, MySQL | Production-Grade Products, Microservices & Scalable Systems | Generative AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu8544)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonu8544)
